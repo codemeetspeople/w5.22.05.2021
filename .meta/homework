@@ -1,0 +1,9 @@
+Implement class with tests coverage (100%):
+    - Vector
+    - Complex
+    - Unit
+
+Implement generators with tests coverage (100%):
+    - factorial
+    - fibonacci
+    - geo_prog
