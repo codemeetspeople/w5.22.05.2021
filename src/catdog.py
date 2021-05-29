@@ -19,7 +19,6 @@ class CatDog(Dog, Cat):
         print(f'{self.__class__.__name__} eats meat and fish')
 
 
-
 if __name__ == '__main__':
     catdog = CatDog()
 

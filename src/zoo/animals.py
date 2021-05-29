@@ -36,3 +36,24 @@ class Wolf(Animal):
     @classmethod
     def speak(cls):
         print(f'{cls.get_title()} say wooo-wooo')
+
+
+@animal_in_zoo
+class Elephant(Animal):
+    @classmethod
+    def speak(cls):
+        print(f'{cls.get_title()} say qcdf-qcdf')
+
+
+@animal_in_zoo
+class Beaver(Animal):
+    @classmethod
+    def speak(cls):
+        print(f'{cls.get_title()} say iusm-iusm')
+
+
+@animal_in_zoo
+class Fox(Animal):
+    @classmethod
+    def speak(cls):
+        print(f'{cls.get_title()} say hmfi-hmfi')
