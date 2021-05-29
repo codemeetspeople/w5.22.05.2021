@@ -8,3 +8,5 @@ cover/
 .coverage
 
 *.py[cod]
+*.txt
+*.sqlite
